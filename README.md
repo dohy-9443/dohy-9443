@@ -8,7 +8,7 @@
 -->
 
 <!--
-**seo-minjeong/seo-minjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dohy-9443/dohy-9443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo-minjeong&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seo-minjeong&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dohy-9443&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dohy-9443&theme=tokyonight) 
 </div>
 -->
 
